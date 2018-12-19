@@ -5,7 +5,6 @@ namespace App\Constant;
 class ExceptionCode
 {
 
-    // 参数错误码
-    const PARAMS_ERROR = [10001, '参数错误'];
+    const APPLICATION_NOT_EXIST = [1001, '应用不存在'];
 
 }

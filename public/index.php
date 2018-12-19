@@ -9,6 +9,9 @@ define("APP_DEBUG", true);
 // 环境变量.env变量名前缀
 define("ENV_PREFIX", '');
 
+// 定义图片域名
+define('IMG_DOMAIN', 'http://localhost:8004');
+
 // 定义框架目录,可更改此目录
 define('FRAME_PATH', __DIR__ . '/../../thinkphp');
 
